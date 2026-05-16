@@ -1,6 +1,6 @@
 # IPTV [![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/brutal-45/iptv-source/actions)
 
-Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
+Collection of publicly available IPTV (Internet Protocol television) channels from all over the world. 
 
 ## Table of contents
 
