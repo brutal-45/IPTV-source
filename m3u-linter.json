@@ -1,7 +1,7 @@
 {
   "files": ["streams/*.m3u"],
   "rules": {
-    "no-empty-lines": true,
+    "no-empty-lines": true, 
     "require-header": true,
     "attribute-quotes": true,
     "require-info": true,
