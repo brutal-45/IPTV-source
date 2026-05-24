@@ -4,4 +4,4 @@ async function main() {
   await downloadData()
 }
 
-main()
+main() 
