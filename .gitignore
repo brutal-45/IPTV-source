@@ -6,4 +6,4 @@ node_modules
 /.gh-pages/
 /.api/
 .env
-/temp/
+/temp/ 
