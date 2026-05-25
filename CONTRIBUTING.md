@@ -1,7 +1,7 @@
 # Contributing Guide
 
 - [How to?](#how-to)
-- [Stream Description Scheme](#stream-description-scheme)
+- [Stream Description Scheme](#stream-description-scheme) 
 - [Project Structure](#project-structure)
 - [Scripts](#scripts)
 - [Workflows](#workflows)
