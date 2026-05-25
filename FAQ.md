@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-### My favorite channel is not on the playlist.
+### My favorite channel is not on the playlist. 
 
 Start by asking our community for help via [Discussions](https://github.com/orgs/iptv-org/discussions). It is quite possible that someone already has a link to the channel you need and they just haven't added it to our playlist yet.
 
