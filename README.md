@@ -54,7 +54,7 @@ If you have a question or idea, welcome to the [Discussions](https://github.com/
 
 ## FAQ
 
-The answers to the most popular questions can be found in the [FAQ.md](FAQ.md) file.
+The answers to the most popular questions can be found in the [FAQ.md](FAQ.md) file. 
 
 ## Contribution
 
