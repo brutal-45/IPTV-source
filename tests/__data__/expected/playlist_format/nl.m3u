@@ -7,5 +7,5 @@ http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo22.
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/.m3u8
 #EXTINF:-1 tvg-id="NPO2.nl@SD",NPO 2 (302p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=http://imn.iq
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 
 http://stream.tvtap.net:8081/live/nl-npo2.stream/playlist.m3u8?|Referer="https://referer.xyz/"|User-Agent="Mozilla/5.0+(iPhone;+CPU+iPhone+OS+17_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/18.0+Mobile/15E148+Safari/604.1"|Origin="https://origin.xyz"
