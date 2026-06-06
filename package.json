@@ -1,4 +1,4 @@
-{ 
+{
   "name": "iptv",
   "scripts": {
     "act:check": "gh act pull_request -W .github/workflows/check.yml",
