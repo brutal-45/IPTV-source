@@ -1,5 +1,5 @@
 import { Storage, File } from '@freearhey/storage-js'
-import { PUBLIC_DIR, EOL } from '../constants'
+import { PUBLIC_DIR, EOL } from '../constants' 
 import { Stream, Playlist } from '../models'
 import { Collection } from '@freearhey/core'
 import { Generator } from './generator'
