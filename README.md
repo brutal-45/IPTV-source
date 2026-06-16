@@ -1,158 +1,79 @@
-# \# IPTV \[!\[update](https://github.com/iptv-org/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/brutal-45/iptv-source/actions)
+# IPTV [![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/brutal-45/iptv-source/actions)
 
-# 
+Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
 
-# Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
+## Table of contents
+ 
+- 🚀 [How to use?](#how-to-use)
+- 📺 [Playlists](#playlists)
+- 🗓 [EPG](#epg)
+- 🗄 [Database](#database)
+- 👨‍💻 [API](#api)
+- 📚 [Resources](#resources)
+- 💬 [Discussions](#discussions)
+- ❓ [FAQ](#faq)
+- 🛠 [Contribution](#contribution)
+- ⚖ [Legal](#legal)
+- © [License](#license)
 
-# 
+## How to use?
 
-# \## Table of contents
+Simply paste the link to one of the playlists into [any video player](https://github.com/brutal-45/awesome-iptv) that supports live streaming and press _Open_.
 
-# &#x20;
+![VLC Network Panel](https://github.com/iptv-org/iptv/raw/master/.readme/preview.png)
 
-# \- 🚀 \[How to use?](#how-to-use)
+## Playlists
 
-# \- 📺 \[Playlists](#playlists)
+The main playlist containing all channels available in the repository can be found at:
 
-# \- 🗓 \[EPG](#epg)
+```
+https://iptv-org.github.io/iptv/index.m3u
+```
 
-# \- 🗄 \[Database](#database)
+Links to other playlists can be found in the [PLAYLISTS.md](PLAYLISTS.md) file.
 
-# \- 👨‍💻 \[API](#api)
+## EPG
 
-# \- 📚 \[Resources](#resources)
+[Electronic Program Guide](https://en.wikipedia.org/wiki/Electronic_program_guide) for most of the channels can be downloaded using utilities published in the [iptv-org/epg](https://github.com/iptv-org/epg) repository.
 
-# \- 💬 \[Discussions](#discussions)
+## Database
 
-# \- ❓ \[FAQ](#faq)
+All channel data is taken from the [iptv-org/database](https://github.com/iptv-org/database) repository. If you find any errors please open a new [issue](https://github.com/iptv-org/database/issues) there.
 
-# \- 🛠 \[Contribution](#contribution)
+## API
 
-# \- ⚖ \[Legal](#legal)
+The API documentation can be found in the [iptv-org/api](https://github.com/iptv-org/api) repository.
 
-# \- © \[License](#license)
+## Resources
 
-# 
+Links to other useful IPTV-related resources can be found in the [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) repository.
 
-# \## How to use?
+## Discussions
 
-# 
+If you have a question or idea, welcome to the [Discussions](https://github.com/orgs/iptv-org/discussions).
 
-# Simply paste the link to one of the playlists into \[any video player](https://github.com/brutal-45/awesome-iptv) that supports live streaming and press \_Open\_.
+## FAQ
 
-# 
+The answers to the most popular questions can be found in the [FAQ.md](FAQ.md) file. 
 
-# !\[VLC Network Panel](https://github.com/iptv-org/iptv/raw/master/.readme/preview.png)
+## Contribution
 
-# 
+Please make sure to read the [Contributing Guide](CONTRIBUTING.md) before sending an issue or making a pull request.
 
-# \## Playlists
+And thank you to everyone who has already contributed!
 
-# 
+### Backers
 
-# The main playlist containing all channels available in the repository can be found at:
+<a href="https://opencollective.com/iptv-org"><img src="https://opencollective.com/iptv-org/backers.svg?width=890" /></a>
 
-# 
+### Contributors
 
-# ```
+<a href="https://github.com/iptv-org/iptv/graphs/contributors"><img src="https://opencollective.com/iptv-org/contributors.svg?width=890" /></a>
 
-# https://iptv-org.github.io/iptv/index.m3u
+## Legal
 
-# ```
+No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by opening an [issue](https://github.com/iptv-org/iptv/issues/new?template=6_copyright-claim.yml). However, note that we have **no control** over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link, and thus this is **not** a valid reason to send a DMCA notice to GitHub. To remove this content from the web, you should contact the web host that's actually hosting the content (**not** GitHub, nor the maintainers of this repository).
 
-# 
+## License
 
-# Links to other playlists can be found in the \[PLAYLISTS.md](PLAYLISTS.md) file.
-
-# 
-
-# \## EPG
-
-# 
-
-# \[Electronic Program Guide](https://en.wikipedia.org/wiki/Electronic\_program\_guide) for most of the channels can be downloaded using utilities published in the \[iptv-org/epg](https://github.com/iptv-org/epg) repository.
-
-# 
-
-# \## Database
-
-# 
-
-# All channel data is taken from the \[iptv-org/database](https://github.com/iptv-org/database) repository. If you find any errors please open a new \[issue](https://github.com/iptv-org/database/issues) there.
-
-# 
-
-# \## API
-
-# 
-
-# The API documentation can be found in the \[iptv-org/api](https://github.com/iptv-org/api) repository.
-
-# 
-
-# \## Resources
-
-# 
-
-# Links to other useful IPTV-related resources can be found in the \[iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) repository.
-
-# 
-
-# \## Discussions
-
-# 
-
-# If you have a question or idea, welcome to the \[Discussions](https://github.com/orgs/iptv-org/discussions).
-
-# 
-
-# \## FAQ
-
-# 
-
-# The answers to the most popular questions can be found in the \[FAQ.md](FAQ.md) file. 
-
-# 
-
-# \## Contribution
-
-# 
-
-# Please make sure to read the \[Contributing Guide](CONTRIBUTING.md) before sending an issue or making a pull request.
-
-# 
-
-# And thank you to everyone who has already contributed!
-
-# 
-
-# \### Backers
-
-# 
-
-# <a href="https://opencollective.com/iptv-org"><img src="https://opencollective.com/iptv-org/backers.svg?width=890" /></a>
-
-# 
-
-# \### Contributors
-
-# 
-
-# <a href="https://github.com/iptv-org/iptv/graphs/contributors"><img src="https://opencollective.com/iptv-org/contributors.svg?width=890" /></a>
-
-# 
-
-# \## Legal
-
-# 
-
-# No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by opening an \[issue](https://github.com/iptv-org/iptv/issues/new?template=6\_copyright-claim.yml). However, note that we have \*\*no control\*\* over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link, and thus this is \*\*not\*\* a valid reason to send a DMCA notice to GitHub. To remove this content from the web, you should contact the web host that's actually hosting the content (\*\*not\*\* GitHub, nor the maintainers of this repository).
-
-# 
-
-# \## License
-
-# 
-
-# \[!\[CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](LICENSE)
-
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](LICENSE)
