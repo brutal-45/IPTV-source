@@ -1,4 +1,4 @@
-{
+{ 
   "files": ["streams/*.m3u"],
   "rules": {
     "no-empty-lines": true,
