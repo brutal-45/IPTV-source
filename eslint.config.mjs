@@ -1,4 +1,4 @@
-import typescriptEslint from '@typescript-eslint/eslint-plugin' 
+import typescriptEslint from '@typescript-eslint/eslint-plugin'
 import stylistic from '@stylistic/eslint-plugin'
 import tsParser from '@typescript-eslint/parser'
 import { FlatCompat } from '@eslint/eslintrc'
