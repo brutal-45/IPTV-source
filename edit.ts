@@ -1,4 +1,4 @@
-import { loadData, data, searchChannels } from '../../api'
+import { loadData, data, searchChannels } from '../../api' 
 import { Collection, Logger } from '@freearhey/core'
 import { select, input } from '@inquirer/prompts'
 import { Playlist, Stream } from '../../models'
