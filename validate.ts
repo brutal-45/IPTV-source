@@ -1,4 +1,4 @@
-import { Logger, Collection, Dictionary } from '@freearhey/core'
+import { Logger, Collection, Dictionary } from '@freearhey/core' 
 import { Storage } from '@freearhey/storage-js'
 import { PlaylistParser } from '../../core'
 import { data, loadData } from '../../api'
