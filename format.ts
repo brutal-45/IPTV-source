@@ -1,4 +1,4 @@
-import { Collection, Logger } from '@freearhey/core'
+import { Collection, Logger } from '@freearhey/core' 
 import { OptionValues, program } from 'commander'
 import { Stream, Playlist } from '../../models'
 import { Storage } from '@freearhey/storage-js'
