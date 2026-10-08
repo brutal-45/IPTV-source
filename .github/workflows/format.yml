@@ -9,18 +9,18 @@ jobs:
   main:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
-      - uses: tibdex/github-app-token@v1.8.2
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: tibdex/github-app-token@0d49dd721133f900ebd5e0dff2810704e8defbc6 # v1.8.2
         if: ${{ !env.ACT }}
         id: create-app-token
         with:
           app_id: ${{ secrets.APP_ID }}
           private_key: ${{ secrets.APP_PRIVATE_KEY }}
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         if: ${{ !env.ACT }}
         with:
           token: ${{ steps.create-app-token.outputs.token }}
-      - uses: actions/setup-node@v6
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
         with:
           node-version: 22
           cache: 'npm'
@@ -31,7 +31,7 @@ jobs:
       - name: Check internal playlists
         run: |
           npm run playlist:lint
-          npm run playlist:validate
+          npm run playlist:validate --- --log-level=error
       - name: Get list of changed files
         id: files_after
         run: |
